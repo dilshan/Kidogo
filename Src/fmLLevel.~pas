@@ -1,0 +1,38 @@
+unit fmLLevel;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls;
+
+type
+  TfrmLLevel = class(TForm)
+    Label1: TLabel;
+    rbZero: TRadioButton;
+    rbOne: TRadioButton;
+    btnCancel: TButton;
+    btnOK: TButton;
+    Bevel1: TBevel;
+  private
+    { Private declarations }
+  public
+    function GetLogicLevel() : Integer;
+  end;
+
+var
+  frmLLevel: TfrmLLevel;
+
+implementation
+
+{$R *.dfm}
+
+function TfrmLLevel.GetLogicLevel() : Integer;
+begin
+  if(rbZero.checked) then
+    result := 0
+  else
+    result := 1;
+end;
+
+end.

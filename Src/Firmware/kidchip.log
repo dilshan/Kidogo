@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -DL -O11111114 -fo48 -N"D:\Kidogo\Src\Firmware\kidchip.mcppi" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Kidogo\Src\Firmware\" "kidchip.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_USB_genHID.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 16 ms	 
+diagnostics: 0	122	Compilation Started	usbdsc.c
+diagnostics: 32	123	Compiled Successfully	kidchip.c
+diagnostics: 0	127	All files Compiled in 15 ms	 
+hint: 0	1144	Used RAM (bytes): 148 (7%)  Free RAM (bytes): 1879 (93%)	Used RAM (bytes): 148 (7%)  Free RAM (bytes): 1879 (93%)
+hint: 0	1144	Used ROM (bytes): 5790 (18%)  Free ROM (bytes): 26978 (82%)	Used ROM (bytes): 5790 (18%)  Free ROM (bytes): 26978 (82%)
+diagnostics: 0	125	Project Linked Successfully	kidchip.mcppi
+diagnostics: 0	128	Linked in 79 ms	 
+diagnostics: 0	129	Project 'kidchip.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 19 Feb 2012, 20:21:51	kidchip.mcppi

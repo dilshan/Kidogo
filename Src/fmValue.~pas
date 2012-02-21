@@ -1,0 +1,31 @@
+unit fmValue;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ComCtrls, StdCtrls, ExtCtrls;
+
+type
+  TfrmValue = class(TForm)
+    Label1: TLabel;
+    btnCancel: TButton;
+    btnOK: TButton;
+    Bevel1: TBevel;
+    txtValue: TEdit;
+    upVal: TUpDown;
+    chk8bit: TCheckBox;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmValue: TfrmValue;
+
+implementation
+
+{$R *.dfm}
+
+end.
