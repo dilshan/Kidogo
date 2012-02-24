@@ -2,7 +2,7 @@
 
 ==== About ====
 
-[[File:https://github.com/dilshan/Kidogo/raw/master/Res/kinfo.jpg|center]]
+[[File:https://github.com/dilshan/Kidogo/raw/master/Res/kinfo.jpg]]<br/>
 
 Kidogo is 8 channel USB self powered digital signal injector. Kidogo system consists with Signal Editor and USB interface module. [https://github.com/downloads/dilshan/Kidogo/KidogoPlayer10077.zip Kidogo Player] is the Signal Editor of the Kidogo system and it can support up to 512 time slots (each range between 1''ms'' to 1''s'') with 8 channels.
 
@@ -12,7 +12,7 @@ USB interface of the Kidogo system is based around Microchip's PIC18F2550 microc
 
 ==== Kidogo Player ====
 
-[[File:https://github.com/dilshan/Kidogo/raw/master/Res/kidpicture10077.jpg|center]]
+[[File:https://github.com/dilshan/Kidogo/raw/master/Res/kidpicture10077.jpg]]<br/>
 
 Kidogo Player is design to work under the Microsoft Windows operating systems and it has following general features:
 
