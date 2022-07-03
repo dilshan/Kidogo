@@ -6,7 +6,12 @@
 
 Kidogo is 8 channel USB self powered digital signal injector. Kidogo system consists with Signal Editor and USB interface module. [http://elect.wikispaces.com/file/view/KidogoPlayer10077.zip Kidogo Player] is the Signal Editor of the Kidogo system and it can support up to 512 time slots (each range between 1''ms'' to 1''s'') with 8 channels.
 
-Note: Due to [https://github.com/blog/1302-goodbye-uploads removal of the Github "downloads section"] we provide another alternative site to download compiled Kidogo binaries. These latest compiled binaries are now available at [http://elect.wikispaces.com/Downloads elect.wikispaces.com].
+Note: Due to [https://github.com/blog/1302-goodbye-uploads removal of the Github "downloads section"] we provide another alternative site to download compiled Kidogo binaries. <s>These latest compiled binaries are now available at [http://elect.wikispaces.com/Downloads elect.wikispaces.com].</s>
+
+* <a href="https://drive.google.com/file/d/1aO3DU1RYpLFDZuTGsQdkg4TyV0_dUmdv/view?usp=sharing">kidogo_usb.zip</a>
+* <a href="https://drive.google.com/file/d/1LaOAHYiEljnA4-lIhKap0B1vMnv61hrd/view?usp=sharing">KidogoPlayer10077.zip</a>
+* <a href="https://drive.google.com/file/d/1CTANfhDf4UnbpFX7r6_Vy7hN7aOHGLEK/view?usp=sharing">kidogo_10077.zip</a>
+* <a href="https://drive.google.com/file/d/1XI6YjqjBZamF7jc04tTEm969ARhnUG4u/view?usp=sharing">kidchip.hex</a>
 
 ==== Kidogo USB Interface ====
 
